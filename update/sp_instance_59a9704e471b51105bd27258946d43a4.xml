@@ -23,7 +23,16 @@
         <sys_update_name>sp_instance_59a9704e471b51105bd27258946d43a4</sys_update_name>
         <title/>
         <url/>
-        <widget_parameters/>
+        <widget_parameters><![CDATA[{
+	"title": {
+		"value": "",
+		"displayValue": ""
+	},
+	"maximum_records_to_display": {
+		"value": "2",
+		"displayValue": "2"
+	}
+}]]></widget_parameters>
     </sp_instance>
     <sys_translated_text action="delete_multiple" query="documentkey=59a9704e471b51105bd27258946d43a4"/>
 </record_update>

@@ -62,9 +62,7 @@
       </div>
     </div>
   </div>
-  <div class="panel-body">
-    <textarea class="form-control" id="note-body" ng-model="c.data.note" ng-change="c.updateNote('body')" ng-model-options="{debounce: 1000}" ></textarea>
-  </div>
+  <delete-button-confirm></delete-button-confirm>
 </div>]]></template>
     </sp_widget>
 </record_update>
